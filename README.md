@@ -2,7 +2,7 @@
 
 ## Receta
 
-##Instrucciones
+## Instrucciones
 
 1. Hacer un fork del repositorio, picandole en el boton que dice fork.
 2. Clonar el repositorio
